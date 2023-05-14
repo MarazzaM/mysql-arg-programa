@@ -2,5 +2,5 @@ Empecé a planear la app con el script_original.sql pero terminé usando script_
 DER del concepto original
 ![DER](map.png)
 ![DER](teorico.png)
-Utilizado realmente
+Este resultó el script utilizado realmente
 ![DER](utilizado.png)
